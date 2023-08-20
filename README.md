@@ -8,15 +8,15 @@ Instructions to use
    <br>
    ![image](https://i.imgur.com/BVo8Zlum.jpg)
    <br>
-3. Select Reversion Scroll with the **Page Down** Key
+3. <p>Select Reversion Scroll with the **Page Down** Key</p>
    <br>
    ![image](https://i.imgur.com/7jSgUQj.gif)
    <br>
-5. Select the Item to Awaken with the **Home** Key
+5. <p>Select the Item to Awaken with the **Home** Key</p>
    <br>
    ![image](https://github.com/crunksensei/flyff-awakening/assets/63222538/cd870a6a-efb2-428e-a61f-027f65f631d7)   
    <br>
-6. To Awaken items press the **Insert** key
+7. To Awaken items press the **Insert** key
 
    <br>
    ![image](https://cwflyff.com/assets/img/guides/0wNAdMV.png)
