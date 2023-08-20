@@ -4,7 +4,7 @@ AHK script to awaken items in Flyff
 # For all your Awakening needs
 Instructions to use
 
-1. Select Awakening scroll with the **Page Up** Key
+1. <p>Select Awakening scroll with the **Page Up** Key</p>
    <br>
    ![image](https://i.imgur.com/BVo8Zlum.jpg)
    <br>
