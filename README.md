@@ -16,13 +16,11 @@ Instructions to use
    <br>
    ![image](https://github.com/crunksensei/flyff-awakening/assets/63222538/cd870a6a-efb2-428e-a61f-027f65f631d7)   
    <br>
-7. To Awaken items press the **Insert** key
-
+7. <p>To Awaken items press the **Insert** key</p>
    <br>
    ![image](https://cwflyff.com/assets/img/guides/0wNAdMV.png)
    <br>
-
-8. To Unawaken items press the **Delete** key
+8. <p>To Unawaken items press the **Delete** key</p>
    <br>
    ![image](https://github.com/crunksensei/flyff-awakening/assets/63222538/cd870a6a-efb2-428e-a61f-027f65f631d7)
    <br>
