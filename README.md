@@ -13,9 +13,7 @@ Instructions to use
    ![image](https://i.imgur.com/7jSgUQj.gif)
    <br>
 5. <p>Select the Item to Awaken with the **Home** Key</p>
-   <br>
    ![image](https://github.com/crunksensei/flyff-awakening/assets/63222538/cd870a6a-efb2-428e-a61f-027f65f631d7)   
-   <br>
 7. <p>To Awaken items press the **Insert** key</p>
    <br>
    ![image](https://cwflyff.com/assets/img/guides/0wNAdMV.png)
